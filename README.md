@@ -20,6 +20,7 @@ claude mcp add --transport http onlinepresence https://mcp.baldwinsung.com/onlin
 | Tool | What it does |
 |---|---|
 | [cisco-tui](https://github.com/baldwinsung/cisco-tui) | Terminal UI to apply/remove interface ACLs and save config on Cisco IOS |
+| [claude-statusline](https://github.com/baldwinsung/claude-statusline) | Two-line Claude Code status line: git repo and branch, context window, 5-hour and weekly usage with reset countdowns and pace |
 | [online-presence](https://github.com/baldwinsung/online-presence) | `onlinepresence example.com`: registration, hosting and TLS certificate for a domain; `onlinepresence 8.8.8.8`: IP holder and abuse contacts |
 
 ## macOS menu bar apps
